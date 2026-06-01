@@ -4,16 +4,16 @@
 <h2>👨‍💻 My CyberSecurity Projects:</h2>
 
 - <b>🔵 Defence Stuff</b>
-  - [Enterprise Active Directory & SIEM Home Lab](https://github.com/josephsonn)(Windows server, pfSense, Snort)
+  - [Enterprise Active Directory & SIEM Home Lab](https://github.com/josephsonn) (Windows server, pfSense, Snort)
   - [](https://github.com/josephsonn)
 
 - <b>🔴 Offence Stuff</b>
-  - [Web + Infra Penetration Test & Formal Assessment Report](https://github.com/josephsonn)(Kali, BurpSuite)
+  - [Web + Infra Penetration Test & Formal Assessment Report](https://github.com/josephsonn) (Kali, BurpSuite)
   - [](https://github.com/josephsonn)
 
 - <b>🐍<code>Python Scripts</code></b>
-  - [Custom Traget Scanner + Intruder](https://github.com/josephsonn)()
-  - [Server + Client interaction sockets](https://github.com/josephsonn)()
+  - [Custom Traget Scanner + Intruder](https://github.com/josephsonn)
+  - [Server + Client interaction sockets](https://github.com/josephsonn)
   - [Basic reverse shell](https://github.com/josephsonn)
   - [Web Scraper](https://github.com/josephsonn)
   - [Small server chat](https://github.com/josephsonn)
@@ -25,8 +25,8 @@
   - [basic 3 router topology](https://github.com/josephsonn)()
   - [](https://github.com/josephsonn)
 
-- <b>Other Stuff</b>
-  - [HTTP traffic credential analysis](https://github.com/josephsonn)(Wireshark)
+- <b>✔️ Other Stuff</b>
+  - [HTTP traffic credential analysis](https://github.com/josephsonn) (Wireshark)
   - [](https://github.com/josephsonn)
   - [](https://github.com/josephsonn)
 
