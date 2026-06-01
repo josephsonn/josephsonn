@@ -1,5 +1,5 @@
 
-## Hi there 👋, I'm a CyberSecurity enthusiast and practitioner. Here i post my recent projects/labs/scripts.
+## I'm a CyberSecurity enthusiast and practitioner. Here i post my recent projects/labs/scripts.
 
 <h2>👨‍💻 My CyberSecurity Projects:</h2>
 
