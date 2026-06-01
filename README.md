@@ -5,8 +5,8 @@
 
 - <b>🔵 Defence Stuff</b>
   - [Enterprise Active Directory & SIEM Home Lab](https://github.com/josephsonn) (Windows server, pfSense, Snort)
-    - [Adding an pfSense Firewall to it](https://github.com/josephsonn)
-    - [Adding and Snort IDS/IPS to it](https://github.com/josephsonn)
+    - [Adding pfSense Firewall to it](https://github.com/josephsonn)
+    - [Adding Snort IDS/IPS to it](https://github.com/josephsonn)
   - [](https://github.com/josephsonn)
 
 - <b>🔴 Offence Stuff</b>
