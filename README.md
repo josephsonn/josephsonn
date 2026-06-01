@@ -10,7 +10,7 @@
   - [Web + Infra Penetration Test & Formal Assessment Report](https://github.com/josephsonn)(Kali, BurpSuite)
   - [](https://github.com/josephsonn)
 
-- <b>Python Scripts</b>
+- <b><code>Python Scripts</code></b>
   - [Custom Traget Scanner + Intruder](https://github.com/josephsonn)()
   - [Server + Client interaction sockets](https://github.com/josephsonn)()
   - [Basic reverse shell](https://github.com/josephsonn)
