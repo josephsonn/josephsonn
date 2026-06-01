@@ -20,14 +20,10 @@
   - [Remote Access Trojan Malware](https://github.com/josephsonn)
   - [Zip/Winrar file Bruteforcer](https://github.com/josephsonn)
   - [](https://github.com/josephsonn)
-
-- <b>📨 Cisco Packet Tracer</b>
-  - [basic 3 router topology](https://github.com/josephsonn)()
-  - [](https://github.com/josephsonn)
-
+    
 - <b>✔️ Other Stuff</b>
+  - [basic 3 router topology](https://github.com/josephsonn) (Cisco Packet Tracer)
   - [HTTP traffic credential analysis](https://github.com/josephsonn) (Wireshark)
-  - [](https://github.com/josephsonn)
   - [](https://github.com/josephsonn)
 
 <h2> 🤳 Lets connect!</h2>
