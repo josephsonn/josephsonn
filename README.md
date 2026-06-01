@@ -5,6 +5,8 @@
 
 - <b>🔵 Defence Stuff</b>
   - [Enterprise Active Directory & SIEM Home Lab](https://github.com/josephsonn) (Windows server, pfSense, Snort)
+    - [Adding an pfSense Firewall to it](https://github.com/josephsonn)
+    - [Adding and Snort IDS/IPS to it](https://github.com/josephsonn)
   - [](https://github.com/josephsonn)
 
 - <b>🔴 Offence Stuff</b>
@@ -24,6 +26,7 @@
 - <b>✔️ Other Stuff</b>
   - [basic 3 router topology](https://github.com/josephsonn) (Cisco Packet Tracer)
   - [HTTP traffic credential analysis](https://github.com/josephsonn) (Wireshark)
-  - [](https://github.com/josephsonn)
-
+  - [Phishing campaign simulation](https://github.com/josephsonn) (Kali)
+  - [MITM simulation](https://github.com/josephsonn) (Kali)
+  - [LLMNR poisoning simulation](https://github.com/josephsonn) (Kali)
 
