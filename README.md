@@ -25,7 +25,7 @@
     
 - <b>✔️ Other Stuff</b>
   - [basic 3 router topology](https://github.com/josephsonn) (Cisco Packet Tracer)
-  - [HTTP traffic credential analysis](https://github.com/josephsonn) (Wireshark)
+  - [HTTP traffic credential analysis](https://github.com/josephsonn/wireshark_lab1) (Wireshark)
   - [Phishing campaign simulation](https://github.com/josephsonn) (Kali)
   - [MITM simulation](https://github.com/josephsonn) (Kali)
   - [LLMNR poisoning simulation](https://github.com/josephsonn) (Kali)
