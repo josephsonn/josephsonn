@@ -17,16 +17,10 @@
   - *(WIP)* [Custom Traget Scanner + Intruder](https://github.com/josephsonn)
   - *(WIP)* [Server + Client interaction sockets](https://github.com/josephsonn)
   - *(WIP)* [Basic reverse shell](https://github.com/josephsonn)
-  - *(WIP)* [Web Scraper](https://github.com/josephsonn)
-  - *(WIP)* [Small server chat](https://github.com/josephsonn)
-  - *(WIP)* [Remote Access Trojan Malware](https://github.com/josephsonn)
-  - *(WIP)* [Zip/Winrar file Bruteforcer](https://github.com/josephsonn)
-  - [](https://github.com/josephsonn)
+
     
 - <b>✔️ Other Stuff</b>
   - *(WIP)* [basic 3 router topology](https://github.com/josephsonn) (Cisco Packet Tracer)
   - [HTTP traffic credential analysis](https://github.com/josephsonn/wireshark_lab1) (Wireshark)
-  - *(WIP)* [Phishing campaign simulation](https://github.com/josephsonn) (Kali)
-  - *(WIP)* [MITM simulation](https://github.com/josephsonn) (Kali)
-  - *(WIP)* [LLMNR poisoning simulation](https://github.com/josephsonn) (Kali)
+
 
